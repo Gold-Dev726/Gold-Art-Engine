@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Meta Ruffy #1",
+    "description": "Meta Ruffy 2022 Collection - usable in Ruffy World our Metaverse open World - 10k limited Edition",
+    "image": "https://ruffy.mypinata.cloud/ipfs/QmdzKuJSZXLAMc9k8DJVhBkSvn8CiUtSqbEGwFhFkbFTUg/1.png",
+    "dna": "080f52a5e8ce0bcea63545a458202e26e753026c",
+    "edition": 1,
+    "date": 1641458257429,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "6"
+      },
+      {
+        "trait_type": "Skins",
+        "value": "14"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "18"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "4"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "None"
+      },
+      {
+        "trait_type": "Beard Colors",
+        "value": "9"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "None"
+      },
+      {
+        "trait_type": "Beard Forms",
+        "value": "10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Meta Ruffy #2",
+    "description": "Meta Ruffy 2022 Collection - usable in Ruffy World our Metaverse open World - 10k limited Edition",
+    "image": "https://ruffy.mypinata.cloud/ipfs/QmdzKuJSZXLAMc9k8DJVhBkSvn8CiUtSqbEGwFhFkbFTUg/2.png",
+    "dna": "f3451b8e0eb3b2420346c699f866cd2061754718",
+    "edition": 2,
+    "date": 1641458259537,
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "6"
+      },
+      {
+        "trait_type": "Skins",
+        "value": "None"
+      },
+      {
+        "trait_type": "Ears",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "None"
+      },
+      {
+        "trait_type": "Eyebrows",
+        "value": "9"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "6"
+      },
+      {
+        "trait_type": "Beard Colors",
+        "value": "4"
+      },
+      {
+        "trait_type": "Mouths",
+        "value": "7"
+      },
+      {
+        "trait_type": "Beard Forms",
+        "value": "6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
